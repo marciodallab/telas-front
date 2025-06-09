@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class TelaSupino extends StatelessWidget {
-  const TelaSupino({super.key});
+class TelaBarraFixa extends StatelessWidget {
+  const TelaBarraFixa({super.key});
 
   @override
   Widget build(BuildContext context) {
