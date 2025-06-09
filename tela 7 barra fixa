@@ -27,7 +27,7 @@ class TelaBarraFixa extends StatelessWidget {
 
               const SizedBox(height: 30),
               Image.asset(
-                'assets/images/barra.png',
+                'assets/images/IMG_6624.jpeg',
                 width: 40,
                 height: 40,
                 fit: BoxFit.contain,
