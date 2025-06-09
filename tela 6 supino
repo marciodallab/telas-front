@@ -17,7 +17,7 @@ class TelaSupino extends StatelessWidget {
               Column(
                 children: [
                   Image.asset(
-                    'assets/images/logo.png', // Ajuste o caminho se necessário
+                    'assets/images/IMG_6624.jpeg', // Ajuste o caminho se necessário
                     width: 200,
                     height: 100,
                     fit: BoxFit.contain,
