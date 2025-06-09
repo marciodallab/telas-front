@@ -17,7 +17,7 @@ class ExerciciosScreen extends StatelessWidget {
               Column(
                 children: [
                   Image.asset(
-                    'assets/images/logo.png', // Atualize o caminho se necessário
+                    'assets/images/IMG_6624.jpeg', // Atualize o caminho se necessário
                     width: 250,
                     height: 100,
                     fit: BoxFit.contain,
