@@ -44,7 +44,7 @@ class TelaResumoTreino extends StatelessWidget {
 
               const SizedBox(height: 90),
               Image.asset(
-                'assets/images/barra.png',
+                'assets/images/IMG_6624.jpeg',
                 width: 100,
                 height: 100,
                 fit: BoxFit.contain,
